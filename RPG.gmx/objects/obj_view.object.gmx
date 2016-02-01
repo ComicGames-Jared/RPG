@@ -25,8 +25,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>x += (obj_player.x - x) * .1;
-y += (obj_player.y - y) * .1;
+            <string>x += (obj_player.x - x) * .2;
+y += (obj_player.y - y) * .2;
 </string>
           </argument>
         </arguments>
